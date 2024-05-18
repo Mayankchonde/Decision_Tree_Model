@@ -1,6 +1,6 @@
 
 import pandas as pd
-da=pd.read_csv("D:\Lecture\Data Mining\Lab Exercise 10\Crop_recommendation.csv")
+da=pd.read_csv("D:\Projects\Data Mining\Crop_recommendation.csv")
 
 #checking null values
 print(da.isnull().sum())
